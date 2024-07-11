@@ -1,0 +1,16 @@
+#Naming conventions very imp in NextJS
+
+Everything we work goes into src directory
+Inside src there is a directory App->
+
+App directory->
+(i) backend (in API folder)
+file name -> route
+
+(ii) frontend ()
+file name -> page
+
+Another directory inside src outside App -> models, jwt tokens, helpers, components etc...
+
+# Middleware folder inside src 
+

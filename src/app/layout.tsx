@@ -20,3 +20,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+/*Layout -> common thing like navigation bar */

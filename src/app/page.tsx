@@ -111,3 +111,5 @@ export default function Home() {
     </main>
   );
 }
+
+/*Client side rendering purpose */
